@@ -1,0 +1,1 @@
+Erreur semantique numero 1 en ligne numero 7 : Affectation de variable 'b' non declaree

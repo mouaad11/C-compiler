@@ -1,0 +1,2 @@
+Erreur syntaxique numero 1 dans la ligne numero 10, 'alors' est attendue apres"si".
+mot errone:'ecrire'
